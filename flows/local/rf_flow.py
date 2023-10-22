@@ -49,6 +49,7 @@ class RF_Flow(FlowSpec):
         End of flow!
         """
         print("RF_Flow is all done.")
+        print("Git commit test")
 
 
 if __name__ == "__main__":
